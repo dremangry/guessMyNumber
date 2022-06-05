@@ -29,7 +29,7 @@ $( document ).ready(function() {
 
 
     })
-// restart button
+    // restart button
     $('.again').on("click", function(){
         displayStart()
         resetAll()
